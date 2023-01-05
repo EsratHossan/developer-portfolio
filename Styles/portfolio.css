@@ -30,6 +30,18 @@ nav li a{
     border-radius: 5px;
     background: #FD6E0A;
 }
+.btn-secondary{
+    color: #ffffff;
+    height: 64px;
+    width: 160px;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 18px 35px;
+    margin-left: 20px;
+    color: #FD6E0A;
+    border-color: #FD6E0A;
+    
+}
 .header{
     background: #FFF8F3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
